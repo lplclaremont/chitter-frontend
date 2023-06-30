@@ -14,7 +14,7 @@ const Feed = () => {
   return(
         <div className='feed' id='feed' role="feed">
           {peeps.map(
-            (peep) => ( <Peep peep={ peep }/> )
+            peep => < Peep key={peep.id} peep={peep}/>
           )}
         </div>
         )
