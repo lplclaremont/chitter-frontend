@@ -1,4 +1,5 @@
 import React from 'react'
+import './Peep.css';
 
 const Peep = ({peep}) => {
   return(

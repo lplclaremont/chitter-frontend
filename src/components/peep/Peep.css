@@ -1,0 +1,22 @@
+.peep {
+  background-color: #FFA07A;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.handle {
+  font-weight: bold;
+  color: white;
+  background-color: #FF1493;
+  padding: 5px;
+  border-radius: 3px;
+  display: inline-block;
+  margin-bottom: 5px;
+}
+
+.body {
+  color: black;
+}
+
+/* Add any additional styles or modifications as needed */
